@@ -9,7 +9,7 @@ gem "rake-compiler"
 gem "test-unit"
 gem "rspec"
 gem "rubocop"
-gem "rubocop-rubycw"
+gem "rubocop-rubycw", ">= 0.2.0"
 gem "json"
 gem "json-schema"
 gem 'stackprof'
